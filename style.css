@@ -262,9 +262,6 @@ span{
     41%, 60%{
         content: "Web Designer";
     }
-    81%, 100%{
-        content: "WordPress Developer";
-    }
 }
 
 @media (max-width: 1000px){
